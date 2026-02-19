@@ -1,0 +1,32 @@
+header {
+  text-align: center;
+}
+.title {
+  margin-top: 0;
+  background-color: rgb(204, 204, 204);
+  font-size: 4rem;
+}
+body {
+  margin: 0;
+}
+div {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.intro {
+  display: flex;
+}
+h2 {
+  text-align: center;
+  width: 45%;
+  margin-left: 2.5%;
+  margin-left: 2.5%;
+  background-color: rgba(0, 0, 0, 0.442);
+  border-radius: 20px;
+}
+.para {
+  padding: 5px;
+
+  background-color: rgb(140, 140, 140);
+  border-radius: 20px;
+}
